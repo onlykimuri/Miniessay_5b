@@ -1,0 +1,1 @@
+Please consider the Special Virtual Issue on Nonresponse Rates and Nonresponse Adjustments of the Journal of Survey Statistics and Methodology. Focus on one aspect of the editorial, and with reference to relevant literature, please discuss it in at least two pages. Use Quarto, and include an appropriate title, author, date, link to a GitHub repo, and citations. 
