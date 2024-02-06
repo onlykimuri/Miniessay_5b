@@ -1,0 +1,41 @@
+---
+title: "Declining Survey Response Rates: Implications for Nonresponse Bias and Future Research Direction"
+author: "Jerry Yu"
+thanks: "Code and data are available at: LINK."
+date: today
+date-format: long
+format: pdf
+number-sections: true
+bibliography: references.bib
+link-citations: true
+---
+
+# Introduction
+
+The editorial reviews three important studies demonstrating the decrease in response rates of surveys along time in all data collection modes. [@Williams2018] report the declining response rates for U.S. face-to-face surveys between 2000-2014. In the United States,[@Dutwin2020] reported declining response rates for telephone surveys from 1996 to 2015. A meta-analysis of studies conducted between 1997 and 2016 by [@Daikeler2020] shows that web surveys have lower response rates than other survey modes. However, in aggregate, these studies show response rates are declining across the board. At this rate, this disturbing trend reduces the quality of survey data if nonresponding individuals are systematically different from respondents on major variables. The need for further research is high in order to assess the effect of declining response rates on nonresponse bias and to develop effective correction strategies.
+
+## **Relationship Between Response Rates and Bias**
+
+The editor’s note stresses that it was very positive that Dutwin and Buskirk revealed no meaningful bias trends that could stem from a decline in telephone survey response rates. However, as [@Groves2008] discuss in their meta-analysis, the relationship between nonresponse rates and nonresponse bias is complex. While low response rates do not necessarily equate to high nonresponse bias, they open the possibility of greater bias if the causes of nonresponse are correlated with key survey variables. As response rates fall, researchers should be particularly vigilant about assessing potential nonresponse bias, even if previous surveys showed minimal bias. Changes in who chooses not to respond over time may introduce new biases.
+
+More research is needed to fully understand the implications of declining response rates for nonresponse bias over time. The studies cited in the editorial focus primarily on trends in the United States. As the editorial suggests, examining patterns in nonresponse rates and associated biases in other countries would be valuable. Are similar declines observed in developing countries? Or in countries with more extensive government survey programs? Comparisons across different survey contexts could shed light on how societal and methodological factors interact to influence trends.
+
+## **Differences Across Population Subgroups**
+
+Within countries, future studies should also investigate whether certain population subgroups or survey topics are more affected by nonresponse trends than others. For example, are younger respondents especially unlikely to participate now versus in the past? Are sensitive or controversial topics experiencing sharper declines than other topics? This could help target data collection efforts toward the most affected groups.
+
+## **Factors Driving Declining Rates**
+
+The mechanisms driving the response rate declines also need further investigation. The growth of web surveys as highlighted by [@Daikeler2020] is likely a key factor. But many other societal and survey design changes may contribute, such as increased concerns about privacy and confidentiality among the public [@Sakshaug2019], proliferation of spam contact attempts across modes, and general survey fatigue. Disentangling the relative effects of different drivers through mixed mode and experimental studies could point toward strategies to counteract declining participation. These strategies may include improved communicated about confidentiality protections, engaging community groups to build trust, and offering meaningful incentives.
+
+## **Methods to Correct for Nonresponse**
+
+Finally, more research is needed on effective methods to correct for nonresponse bias in the face of falling response rates. Weighting adjustments and imputation are common approaches, but as reviewed in the editorial, challenges remain in implementing these methods optimally. Developing high-quality auxiliary data about nonrespondents and applying sophisticated modeling techniques tailored to today's survey climate will be important areas of focus. For example, paradata modeling approaches show promise for informing nonresponse adjustments.
+
+# **Conclusion**
+
+In summary, the clear downward trend in survey response rates warrants continued attention from the survey methods community. While low response does not automatically equate to high nonresponse bias, the risk of increased bias cannot be ignored. Ongoing research and methodological innovation will be key to maintaining rigorous, high-quality surveys in the face of declining participation rates.
+
+\newpage
+
+# References
